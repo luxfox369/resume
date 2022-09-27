@@ -1,0 +1,75 @@
+/* body */
+body {
+    font-family: 'Montserrat', sans-serif; 
+}
+/* main */
+.main {
+display: flex ;
+flex-direction: row-reverse;
+}
+
+/* MainContent */
+.MainContent {
+    background-color:whitesmoke;
+  }
+/* about */
+.about {
+padding-left: 15px;
+color :lightseagreen;
+width: 500px;
+}
+/* ProjectTitle  */
+.Projects {
+    font-size: 24px ;
+    color: red;
+}
+/*ul */
+ ul{
+width: 500px;
+}
+
+/* SideBar */
+.SideBar  {
+   background-color: darkslategray;
+   width: 370px;
+   color:white;
+    }
+/* h3 */
+h3 {
+    color: orange;
+    margin-left: 25px;
+}
+/* h4 */
+h4 {
+    color: darkblue;
+    margin-left: 25px;
+}
+/* h5 */
+h5 {
+     color: coral;
+     margin-left: 25px;
+}
+/* p */
+p {
+    margin-left: 25px;  
+}
+/* img */
+img {
+    width: 370px;
+    }
+/* Contacts */
+.Contacts {
+ margin-left: 3px;
+ font-size: large;
+ color: white;   
+}
+/* Skils */
+.Skils {
+  color: white;  
+}
+/* a */
+a  {
+color: black;
+}
+
+
